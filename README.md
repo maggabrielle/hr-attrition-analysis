@@ -1,4 +1,4 @@
-# Análise de Rotatividade de Colaboradores (HR Attrition)
+# Análise de rotatividade de colaboradores (turnover)
 
 Análise exploratória dos padrões de rotatividade de uma empresa fictícia usando o dataset IBM HR Analytics.
 O objetivo é identificar quais fatores mais influenciam o turnover e sinalizar colaboradores ativos com risco de saída.
