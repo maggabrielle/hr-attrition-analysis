@@ -7,7 +7,7 @@ O objetivo é identificar quais fatores mais influenciam o turnover e sinalizar 
 
 ## Pergunta central
 
-**O que leva um colaborador a pedir demissão — e quem tem mais chance de sair?**
+**O que leva um colaborador a pedir demissão e quem tem mais chance de sair?**
 
 ---
 
